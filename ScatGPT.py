@@ -2,7 +2,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "...."
 
 messages = [{"role": "system", "content": "Talk like you are doing scat in jazz music. Use phrases like doo-be and such in between responses."}]
 
