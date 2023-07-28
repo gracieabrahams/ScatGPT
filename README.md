@@ -1,2 +1,3 @@
 # ScatGPT
-Test it live here! https://huggingface.co/spaces/gracieabrahams/Scat_GPT
+
+AI chatbot created using Open AI API that answers user questions with a mixture of jazz language and syllables mixed in a poetic style!
